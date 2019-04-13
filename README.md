@@ -1,1 +1,1 @@
-# a-dynamic-blog-site-in-php
+# The site is still under construction
